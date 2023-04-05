@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Fosscord Staging",
-		"url": "https://staging.fosscord.com",
-		"description": "Official Fosscord testing instance",
+		"name": "Spacebar Staging",
+		"url": "https://old.server.spacebar.chat",
+		"description": "Old Spacebar testing instance",
 		"official": true
 	},
 	{
